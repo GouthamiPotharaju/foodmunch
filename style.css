@@ -244,10 +244,8 @@
     height: 80px;
     border-radius: 40px;
     margin: 15px;
-    padding-top: 22px;
-    padding-bottom: 14px;
-    padding-right: 16px;
-    padding-left: 22px;
+    align-items:center;
+    justify-content:center;
 }
 
 .icon {
